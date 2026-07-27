@@ -1,7 +1,17 @@
 ## Hi there 👋
 
-# 💫 About Me:
-Hi there, I'm Ryan 👋<br><br>💻 Frontend Developer passionate about building modern, responsive, and user-friendly web applications.<br><br>I enjoy transforming ideas into clean, interactive interfaces with a strong focus on performance, accessibility, and user experience. I'm continuously learning new technologies and improving my skills by building real-world projects.<br><br>🚀 Tech Stack<br>- HTML5<br>- CSS3 / Sass<br>- JavaScript (ES6+)<br>- TypeScript<br>- React<br>- Next.js<br>- Tailwind CSS<br>- Three.js<br>- Git & GitHub<br><br>🌱 Currently Learning<br>- Advanced React Patterns<br>- Frontend Performance Optimization<br>- Three.js & WebGL<br>- Modern UI/UX Design<br>- Full-Stack Development<br><br>📌 What I'm Building<br>- CRM Dashboard<br>- QR Code Applications<br>- Weather Dashboard<br>- Interactive 3D Web Experiences<br>- Modern Frontend Projects<br><br>🎯 Goals<br>- Build production-ready web applications<br>- Contribute to open-source projects<br>- Continuously improve as a Frontend Engineer<br>- Create beautiful and accessible user experiences<br><br>📫 Connect with Me<br>- Portfolio: https://roferosryan.vercel.app/<br>- LinkedIn: https://www.linkedin.com/in/ryanganiii/<br>- Email: ryanroferos.work@gmail.com
+Hi! I'm Ryan, a Frontend Developer who enjoys building modern, responsive, and user-friendly web applications. I love turning ideas into interactive digital experiences with clean code and intuitive design.
+
+I'm currently expanding my skills in React, Next.js, TypeScript, Tailwind CSS, and Three.js while continuously learning about web performance, accessibility, and modern frontend development. I enjoy challenging myself by creating real-world projects that improve both my technical skills and problem-solving abilities.
+
+At the moment, I'm working on projects like CRM dashboards, QR code applications, weather dashboards, and interactive 3D web experiences. My goal is to build production-ready applications, contribute to open-source projects, and grow into a skilled Frontend Engineer.
+
+Tech Stack: HTML, CSS/Sass, JavaScript (ES6+), TypeScript, React, Next.js, Tailwind CSS, Three.js, Git & GitHub.
+
+📫 Let's connect:
+- Portfolio: https://roferosryan.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/ryanganii/
+- Email: ryanroferos.work@gmail.com
 
 
 ## 🌐 Socials:
